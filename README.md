@@ -20,6 +20,7 @@ L'applicazione è stata sviluppata seguendo il modelo MVC quindi sfruttando inter
 	-Spring Security, 
 	-altri framework/librerie accessorie.
 
+PS: le credenziali per l'accesso sono admin/admin123
 	
 Build
 -------------
